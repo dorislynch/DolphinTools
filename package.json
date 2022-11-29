@@ -1,6 +1,6 @@
 {
     "name": "react-native-dolphin-tools",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "this is designed for dolphin tools",
     "homepage": "https://github.com/dorislynch/react-native-dolphin-tools",
     "main": "index.js",
